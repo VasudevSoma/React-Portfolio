@@ -33,13 +33,13 @@ const projectList = [
   {
     title: "Dynamic Login Page",
     description: "I have created a dynamic login page, using HTML,CSS and basics of JavaScript.",
-    url: "https://1drv.ms/u/c/c0aedce80c93d313/EU_XWYCcvuVGtpMIPR1yIoABtp4bOVFky1m5VOMml8PHOQ?e=ZhIFyq",
+    url: "../images/DynamicLog.jpeg",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/VasudevSoma/Resume",
+    url: "https://VasudevSoma.github.io/Resume/",
   },
 ];
 
