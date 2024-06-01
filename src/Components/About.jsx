@@ -10,13 +10,13 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/smoke.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,20 +24,12 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Third-year B.Tech student studying at University of College Engineering and Technology, MGU. I am intrested in web devlopment.;
-
+  "I'm a Third-year B.Tech student studying at University of College Engineering and Technology, MGU. I am intrested in web devlopment.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = [
-  "HTML",
-  "CSS",
-  "Javascript",
-  "PHP",
-  "Bootstrap",
-  "MySQL",
-];
+const skillsList = ["HTML", "CSS", "Javascript", "PHP", "Bootstrap", "MySQL"];
 
 /**
  * Use this to give more information about what you are passionate about,
